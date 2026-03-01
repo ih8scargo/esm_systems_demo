@@ -1,5 +1,11 @@
 # ESM Systems Demo
 
+*Reference implementation of [esm-spec v0.1](https://github.com/your-org/esm-spec).*  
+
+**Spec version:** v0.1
+
+This demo targets the spec’s Turn Artifact: signals → features → policy decision.
+
 A small, editable demo environment for exploring ESM-style turns: signals → features → policy decision.
 
 ## Run locally
