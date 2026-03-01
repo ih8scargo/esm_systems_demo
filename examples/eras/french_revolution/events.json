@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "year": 1789,
+      "description": "Storming of the Bastille",
+      "impact": { "liberty": 1, "stability": -1 }
+    },
+    {
+      "year": 1793,
+      "description": "Reign of Terror begins",
+      "impact": { "liberty": -1, "stability": -2 }
+    }
+  ]
+}

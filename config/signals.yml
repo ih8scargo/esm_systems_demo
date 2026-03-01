@@ -1,0 +1,13 @@
+# Teachers can tune these weights without touching code.
+# Keep names simple; avoid jargon at first.
+
+signal_weights:
+  threat_level: 1.0
+  civilian_impact: 1.0
+  institutional_disruption: 1.0
+  info_uncertainty: 1.0
+
+# Optional: signal thresholds (for categorical outputs)
+thresholds:
+  high: 0.75
+  medium: 0.45

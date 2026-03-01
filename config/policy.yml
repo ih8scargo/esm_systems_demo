@@ -1,0 +1,15 @@
+# A deliberately simple "policy" for demo purposes.
+# Later, this becomes your real policy π with versioning.
+
+policy:
+  name: "demo_policy_v0"
+  rules:
+    - if: "risk >= 0.75"
+      decision: "STABILIZE"
+      rationale: "High aggregate risk: prioritize safety + continuity."
+    - if: "risk >= 0.45"
+      decision: "ADAPT"
+      rationale: "Medium risk: adjust strategy, monitor signals."
+    - if: "risk < 0.45"
+      decision: "PROCEED"
+      rationale: "Low risk: proceed with planned instruction."

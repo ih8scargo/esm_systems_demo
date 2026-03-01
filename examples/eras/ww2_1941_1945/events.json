@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1941-12-07-pearl-harbor",
+    "date": "1941-12-07",
+    "label": "Pearl Harbor attack",
+    "summary": "Japan attacks Pearl Harbor; U.S. enters WWII.",
+    "signals": {
+      "threat_level": 0.95,
+      "civilian_impact": 0.60,
+      "institutional_disruption": 0.85,
+      "info_uncertainty": 0.35
+    }
+  },
+  {
+    "id": "1942-06-midway",
+    "date": "1942-06-04",
+    "label": "Battle of Midway",
+    "summary": "Major naval battle; shifts momentum in the Pacific.",
+    "signals": {
+      "threat_level": 0.80,
+      "civilian_impact": 0.25,
+      "institutional_disruption": 0.55,
+      "info_uncertainty": 0.50
+    }
+  },
+  {
+    "id": "1943-02-stalingrad",
+    "date": "1943-02-02",
+    "label": "Stalingrad outcome",
+    "summary": "Turning point on the Eastern Front; heavy losses.",
+    "signals": {
+      "threat_level": 0.85,
+      "civilian_impact": 0.70,
+      "institutional_disruption": 0.60,
+      "info_uncertainty": 0.55
+    }
+  },
+  {
+    "id": "1944-06-06-d-day",
+    "date": "1944-06-06",
+    "label": "D-Day landings",
+    "summary": "Allied invasion of Normandy opens Western Front.",
+    "signals": {
+      "threat_level": 0.75,
+      "civilian_impact": 0.40,
+      "institutional_disruption": 0.65,
+      "info_uncertainty": 0.45
+    }
+  },
+  {
+    "id": "1945-05-08-ve-day",
+    "date": "1945-05-08",
+    "label": "Victory in Europe (VE Day)",
+    "summary": "Germany surrenders; war in Europe ends.",
+    "signals": {
+      "threat_level": 0.35,
+      "civilian_impact": 0.30,
+      "institutional_disruption": 0.35,
+      "info_uncertainty": 0.25
+    }
+  },
+  {
+    "id": "1945-08-15-vj-day",
+    "date": "1945-08-15",
+    "label": "Victory over Japan (VJ Day)",
+    "summary": "Japan surrenders; WWII ends.",
+    "signals": {
+      "threat_level": 0.20,
+      "civilian_impact": 0.25,
+      "institutional_disruption": 0.25,
+      "info_uncertainty": 0.20
+    }
+  }
+]

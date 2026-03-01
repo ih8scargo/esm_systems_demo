@@ -1,0 +1,11 @@
+# features toggled during the simulation
+
+features:
+  sacrifice:
+    description: "Are extreme measures such as executions being applied?"
+    enabled: false
+  reform:
+    description: "Is reform being pursued through legislation?"
+    enabled: true
+
+# Teachers can flip booleans or add new features here.
